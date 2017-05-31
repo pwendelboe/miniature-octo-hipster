@@ -7,6 +7,7 @@ func printaline() {
 }
 
 //hello world, just a test really
+//more comments!
 func main() {
 	printaline()
 }
